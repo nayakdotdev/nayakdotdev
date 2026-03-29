@@ -1,12 +1,12 @@
-About Me ✨
+hey! this is Sanket..
 =====================================================================================================================================
-I'm a first year CSE student at ITER, SOA passionate about Data Structures & Algorithms and Competitive Programming. Currently a 2★ CodeChef coder, I love solving problems and improving my logic daily. Right now, I’m focused on mastering DSA, learning web development, and building projects that strengthen my development skills and help me grow towards a strong software engineering career.
+A first year CSE student at ITER, SOA! Who is passionate about Data Structures & Algorithms and Competitive Programming. Currently a 2★ CodeChef coder, and I love solving problems and improving my logic daily. Right now, I’m focused on mastering DSA, and building projects that strengthen my skills and help me grow towards a strong software engineering career.
 
 * 🌍  I'm based in Odisha, India
 * ✉️  You can contact me at [sanketnayak610@gmail.com](mailto:sanketnayak610@gmail.com)
-* 🧠  I'm currently learning Python, Web Development, Git & GitHub
-* 👥  I'm looking to collaborate on DSA Projects • Open Source • Web Development
-* 💬  Ask me about my DSA grind, and how I mix development with real-world problem solving
+* 🧠  I'm currently learning Python and Git • GitHub
+* 👥  I'm looking to collaborate on DSA Projects • Open Source
+* 💬  Ask me about my DSA grind, and my journey of problem solving
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
