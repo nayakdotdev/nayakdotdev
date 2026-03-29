@@ -1,10 +1,6 @@
 About Me ✨
 =====================================================================================================================================
-
-hey! this is Sanket..
----------------------------
-
-A B.Tech CSE student at ITER, SOA passionate about Data Structures & Algorithms and Competitive Programming. Currently a 2★ CodeChef coder, I love solving problems and improving my logic daily. Right now, I’m focused on mastering DSA, learning web development, and building projects that strengthen my development skills and help me grow towards a strong software engineering career.
+I'm a B.Tech CSE student at ITER, SOA passionate about Data Structures & Algorithms and Competitive Programming. Currently a 2★ CodeChef coder, I love solving problems and improving my logic daily. Right now, I’m focused on mastering DSA, learning web development, and building projects that strengthen my development skills and help me grow towards a strong software engineering career.
 
 * 🌍  I'm based in Odisha, India
 * ✉️  You can contact me at [sanketnayak610@gmail.com](mailto:sanketnayak610@gmail.com)
@@ -23,6 +19,7 @@ A B.Tech CSE student at ITER, SOA passionate about Data Structures & Algorithms 
 src="https://img.shields.io/github/followers/nayakdotdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/nayakdotdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nayakdotdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
