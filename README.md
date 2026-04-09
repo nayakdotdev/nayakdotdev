@@ -22,6 +22,6 @@ src="https://img.shields.io/github/followers/nayakdotdev?logo=github&style=for-t
 src="https://img.shields.io/twitter/follow/nayakdotdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/nayakdotdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nayakdotdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
