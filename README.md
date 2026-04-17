@@ -10,12 +10,6 @@
 ## 📍About Me:
 A first year CSE student at ITER, SOA! Who is passionate about Data Structures & Algorithms and Competitive Programming. Currently a 2★ CodeChef coder, and I love solving problems and improving my logic daily. Right now, I’m focused on mastering DSA, and building projects that strengthen my skills and help me grow towards a strong software engineering career.
 
-## 📊Statistics:
-<p align="center">
-  <a href="https://github.com/nayakdotdev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nayakdotdev&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="nayakdotdev's GitHub Stats" />
-  </a>
-</p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nayakdotdev&theme=tokyonight&radius=10" alt="nayakdotdev's Activity Graph" />
 </p>
