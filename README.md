@@ -8,7 +8,7 @@
 </p>
 
 ## 📍About Me:
-A first year CSE student at ITER, SOA! Who is passionate about Data Structures & Algorithms and Competitive Programming. Currently a 2★ CodeChef coder, and I love solving problems and improving my logic daily. Right now, I’m focused on mastering DSA, and building projects that strengthen my skills and help me grow towards a strong software engineering career.
+I'm passionate about Data Structures & Algorithms and Competitive Programming. Currently a 2★ CodeChef coder, and I love solving problems and improving my logic daily. Right now, I’m focused on mastering DSA, and building projects that strengthen my skills and help me grow towards a strong software engineering career.
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nayakdotdev&theme=tokyonight&radius=10" alt="nayakdotdev's Activity Graph" />
