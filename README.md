@@ -11,6 +11,10 @@
 I am deeply passionate about Data Structures, Algorithms, and the fast-paced world of Competitive Programming. I love tackling complex problems and improving my logic every day. Currently, my primary focus is on mastering advanced DSA concepts and applying that knowledge to develop practical, high-quality projects. By bridging the gap between theoretical algorithms and real-world implementation, I am committed to building a strong foundation for a successful and innovative career in software engineering.
 
 <p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nayakdotdev&theme=tokyonight&radius=10" alt="nayakdotdev's Activity Graph" />
 </p>
 
