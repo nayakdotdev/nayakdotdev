@@ -6,9 +6,8 @@
 <h3 align="center">CS Undergrad'29 @ITER, SOA</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=nayakdotdev">
-    <img src="https://komarev.com/ghpvc/?username=nayakdotdev&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nayakdotdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 </p>
 
 ---
@@ -26,7 +25,7 @@ I am deeply passionate about Data Structures, Algorithms, and the fast-paced wor
 ## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,kotlin,git,github,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,kotlin,html,css,javascript,git,github,vscode&perline=10" alt="Tech Stack">
 </p>
 
 <p align="center">
