@@ -53,7 +53,7 @@ I'm passionate about Data Structures, Algorithms, and Competitive Programming, a
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://codolio.com/profile/nayakdotdev">
-    <img src="https://img.shields.io/badge/CODOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Codolio" />
+  <img src="https://img.shields.io/badge/CODOLIO-111827?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0YyOEMyOCIgZD0iTTMuNSAyLjVsNSAzLjJoN2w1LTMuMi42IDcuNWMuNSAxLjIuOSAyLjYuOSA0LjIgMCA0LjQtNC40IDcuOC0xMCA3LjhTMiAxOC42IDIgMTQuMmMwLTEuNjAwLjQtMyAuOS00LjIwMHoiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSIxOCIgcng9IjQuNSIgcnk9IjMiIGZpbGw9IiNGRkUyQjAiLz48Y2lyY2xlIGN4PSI4IiBjeT0iMTEiIHI9IjMuOCIgZmlsbD0iI0ZGRjNENiIgc3Ryb2tlPSIjQjg1QTEyIiBzdHJva2Utd2lkdGg9IjEuMiIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iMTEiIHI9IjMuOCIgZmlsbD0iI0ZGRjNENiIgc3Ryb2tlPSIjQjg1QTEyIiBzdHJva2Utd2lkdGg9IjEuMiIvPjxwYXRoIHN0cm9rZT0iI0I4NUExMiIgc3Ryb2tlLXdpZHRoPSIxLjIiIGQ9Ik0xMS44MDAgMTFoLjQiLz48Y2lyY2xlIGN4PSI4IiBjeT0iMTEiIHI9IjEuNSIgZmlsbD0iIzNCMkExQSIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iMTEiIHI9IjEuNSIgZmlsbD0iIzNCMkExQSIvPjxwYXRoIGZpbGw9IiNEOTczMUEiIGQ9Ik0xMC44MDAgMTQuNTAwaDIuNDAwTDEyIDE2LjYwMHoiLz48L3N2Zz4%3D" alt="Codolio" />
   </a>
 </p>
 
